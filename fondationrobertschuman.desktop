@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=fondationrobertschuman
+Comment=Webapp for the Fondation Robert Schuman
+Type=Application
+Icon=d_256.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=http://www.robert-schuman.eu/* http://www.robert-schuman.eu %u
+Terminal=false
+X-Ubuntu-Touch=true
+

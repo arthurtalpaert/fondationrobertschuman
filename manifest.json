@@ -1,0 +1,17 @@
+{
+    "name": "fondationrobertschuman.arthurtalpaert",
+    "description": "The Robert Schuman Foundation works to promote the construction of Europe.",
+    "architecture": "all",
+    "title": "Fondation Robert Schuman",
+    "hooks": {
+        "fondationrobertschuman": {
+            "apparmor": "fondationrobertschuman.apparmor",
+            "desktop":  "fondationrobertschuman.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Arthur Talpaert <arthur.talpaert_ubuntu@m4x.org>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
