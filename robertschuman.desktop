@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=fondationrobertschuman
+Name=robertschuman
 Comment=Webapp for the Fondation Robert Schuman
 Type=Application
 Icon=d_256.png
@@ -7,3 +7,4 @@ Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlP
 Terminal=false
 X-Ubuntu-Touch=true
 
+Name[en]=robertschuman.desktop

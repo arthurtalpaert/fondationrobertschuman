@@ -1,12 +1,12 @@
 {
-    "name": "fondationrobertschuman.arthurtalpaert",
+    "name": "robertschuman.arthurtalpaert",
     "description": "The Robert Schuman Foundation works to promote the construction of Europe.",
     "architecture": "all",
     "title": "Fondation Robert Schuman",
     "hooks": {
-        "fondationrobertschuman": {
-            "apparmor": "fondationrobertschuman.apparmor",
-            "desktop":  "fondationrobertschuman.desktop"
+        "robertschuman": {
+            "apparmor": "robertschuman.apparmor",
+            "desktop":  "robertschuman.desktop"
         }
     },
     "version": "0.1",
